@@ -2,3 +2,5 @@ Tentang GitHub
 -Dapat menyimpan data 
 -Dapat merekam/ Snapshoot jejak digital 
 -melakukan kerjasama team.
+-Melakukan kerja Kelompok
+-Data yang diubah dapat dilihat
