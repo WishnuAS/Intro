@@ -1,5 +1,7 @@
 Rencana Konten Kita
 -JS
+*ER6
+*Framework Java Scrip
 -PHP
 -HTML
 -CSS
