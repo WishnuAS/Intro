@@ -3,6 +3,7 @@ Rencana Konten Kita
 *ER6
 *Framework Java Scrip
   ^Vue
+  ^React
 -PHP
 *Framework PHP
   ^Laravel
