@@ -2,10 +2,10 @@ Rencana Konten Kita
 -JS
 *ER6
 *Framework Java Scrip
-  ^Vue
+  ^Anguler
   ^React
 -PHP
-*Framework PHP
-  ^Laravel
+  *Framework PHP 
+    ^Laravel
 -HTML
 -CSS
